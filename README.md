@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Winniewelsh
 - 👀 I’m interested in learning and collaborating
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and new to AI
 - 💞️ I’m looking to collaborate on several projects
 
 
